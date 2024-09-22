@@ -1,0 +1,28 @@
+.dis-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.padd {
+    padding: 16px;
+}
+.hei {
+    height: 100vh;
+}
+.wei {
+    width: 100vw;
+}
+.bo-ra {
+    border-radius: 20px;
+}
+.ra-50 {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.btn-submit {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    border-radius: 30px;
+}
